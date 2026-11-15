@@ -5,16 +5,23 @@ A restaurant website developed using HTML, CSS, and JavaScript. The project prov
 Technologies Used:
 
 *HTML5
+
 *CSS3
+
 *JavaScript
 
 Features
 
 1.Responsive and attractive website design
+
 2.Home section with restaurant introduction
+
 3.Menu section displaying available food items
+
 4.Contact section for customer inquiries
+
 5.Smooth and easy website navigation
+
 6.Interactive elements implemented with JavaScript
 
 Author
