@@ -8,7 +8,7 @@ Technologies Used :
 * JavaScript
 🚀 How to Run the Project :
 
-You can view the live project directly here: Live Demo
+You can view the live project directly here:Live Demo (https://kashaf33.github.io/Tasty-Bites-Website/)
 
 Alternatively, to run it locally:
 
