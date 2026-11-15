@@ -1,4 +1,4 @@
-
+Added Javascript Functionality
 let form = document.getElementById("bookingForm");
 
 form.addEventListener("submit", function(event) {
