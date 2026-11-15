@@ -1,7 +1,8 @@
-#Tasty Bites Restaurant Website
+Tasty Bites Restaurant Website
+
 A restaurant website developed using HTML, CSS, and JavaScript. The project provides information about the restaurant, menu items, and contact details through a modern and user-friendly interface.
 
-#Technologies Used:
+Technologies Used:
 
 *HTML5
 *CSS3
@@ -16,7 +17,7 @@ Features
 5.Smooth and easy website navigation
 6.Interactive elements implemented with JavaScript
 
-#Author
+Author
 Kashaf Maheen BSCS-C 4919 F23
 
 🚀 How to Run the Project
